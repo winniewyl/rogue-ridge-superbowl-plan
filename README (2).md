@@ -50,7 +50,7 @@ super-bowl-ad-analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/super-bowl-ad-analysis.git
+   git clone https://github.com/winniewyl/super-bowl-ad-analysis.git
    ```
 
 2. Open notebooks in [Google Colab](https://colab.research.google.com/) or VSCode.
@@ -91,4 +91,4 @@ print(response.text)
 
 ## 📬 Contact
 
-For questions or feedback, please email: your_email@purdue.edu
+For questions or feedback, please email: wang6687@purdue.edu
